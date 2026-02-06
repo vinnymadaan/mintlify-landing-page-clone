@@ -67,7 +67,7 @@ project-folder/
 This project is deployed on netlify, you can check it.
 
 
-<>
+<https://mintlify-landing-page-clone.netlify.app/>
 
 ---
 
